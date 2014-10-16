@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdm:home|Door43 (cdm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdm|d43-cdm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdm/archive/master.zip|d43-cdm.zip]]
+
+**Recent Changes**
+{{changes>ns = cdm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdm|Ethnologue data]]
+
